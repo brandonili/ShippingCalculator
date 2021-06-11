@@ -1,4 +1,4 @@
-// Hi, my name is Brandon Ilievski and iI developed this program. 
+
 // This program is a shipping calculator, you have to enter what you are shipping
 // is it is fragile or not, what is the cost of the item and where are you shipping it to. 
 
